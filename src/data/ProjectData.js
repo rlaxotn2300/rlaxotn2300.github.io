@@ -5,45 +5,27 @@ export const ProjectList = [
     title: "TOGEDOG",
     description:
       `반려동물을 키우는 사람들과의 소통, 사진공유, 장소공유가 가능한 SNS`,
-    tech_stack: ["React.Ts", "GoogleCloud", "Typescript", "Recoil","Styled-Component"],
+    tech_stack: ["React", "GoogleCloud", "Typescript", "Recoil","Styled-Component"],
     github_url: "https://github.com/E24I/TOGEDOG",
     demo_url: "http://togedog.kr/",
   },
+  {
+    img: "/stackOverFlow.png",
+    title: "stackOverFlow",
+    description:
+      `stackOverFlow 커뮤니티의 DeskTop프레임 클론코딩.`,
+    tech_stack: ["React", "styled-component", "Javascript", "Redux","ESLint"],
+    github_url: "https://github.com/rlaxotn2300/seb45_pre_026",
+    demo_url: "http://taesu-preproject.s3-website.ap-northeast-2.amazonaws.com/",
+  },
   // {
-  //   img: "/renr-responsive.png",
-  //   title: "RENR Safety App",
+  //   img: "/stackOverFlow.png",
+  //   title: "stackOverFlow",
   //   description:
-  //     "A safety application for the Renewable Resources Dept. of BCIT",
-  //   tech_stack: ["React", "Firebase"],
-  //   github_url: "",
-  //   demo_url: "https://renr-bcit.web.app/",
-  // },
-  // {
-  //   img: "/mymind-responsive.png",
-  //   title: "MyMind",
-  //   description:
-  //     "An app where users can purchase online therapy sessions and chat with their therapists.",
-  //   tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-  //   github_url: "https://github.com/salesp07/MyMind---Copy",
-  //   demo_url: "https://mymindweb.vercel.app/",
-  // },
-  // {
-  //   img: "/pokedex-responsive.png",
-  //   title: "Pokedex",
-  //   description:
-  //     "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-  //   tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-  //   github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-  //   demo_url: "https://pokedex-salesp07.netlify.app/",
-  // },
-  // {
-  //   img: "/jobDetect.png",
-  //   title: "JobDetect",
-  //   description:
-  //     "An app to detect if a job posting is a scam or not using its description.",
-  //   tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-  //   github_url: "https://github.com/salesp07/JobDetectNode",
-  //   demo_url: "https://jobdetective.onrender.com/",
+  //     `stackOverFlow 커뮤니티의 DeskTop프레임 클론코딩.`,
+  //   tech_stack: ["React", "styled-component", "Javascript", "Redux","ESLint"],
+  //   github_url: "https://github.com/rlaxotn2300/seb45_pre_026",
+  //   demo_url: "http://taesu-preproject.s3-website.ap-northeast-2.amazonaws.com/",
   // },
 ];
 
