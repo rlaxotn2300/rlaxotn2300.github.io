@@ -7,7 +7,7 @@ export const ProjectList = [
       `반려동물을 키우는 사람들과의 소통, 사진공유, 장소공유가 가능한 SNS`,
     tech_stack: ["React", "GoogleCloud", "Typescript", "Recoil","Styled-Component"],
     github_url: "https://github.com/E24I/TOGEDOG",
-    demo_url: "http://togedog.kr/",
+    notion_url: "https://www.notion.so/TOGEDOG-fed346352dc040189aadaae1e9a466ba",
   },
   {
     img: "/stackOverFlow.png",
@@ -18,15 +18,6 @@ export const ProjectList = [
     github_url: "https://github.com/rlaxotn2300/seb45_pre_026",
     demo_url: "http://taesu-preproject.s3-website.ap-northeast-2.amazonaws.com/",
   },
-  // {
-  //   img: "/stackOverFlow.png",
-  //   title: "stackOverFlow",
-  //   description:
-  //     `stackOverFlow 커뮤니티의 DeskTop프레임 클론코딩.`,
-  //   tech_stack: ["React", "styled-component", "Javascript", "Redux","ESLint"],
-  //   github_url: "https://github.com/rlaxotn2300/seb45_pre_026",
-  //   demo_url: "http://taesu-preproject.s3-website.ap-northeast-2.amazonaws.com/",
-  // },
 ];
 
 // --------------------------------------- Skills

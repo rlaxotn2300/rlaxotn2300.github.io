@@ -37,7 +37,7 @@ function ProjectCard() {
                     Github
                   </a>
                 )}
-                {list.demo_url.length > 0 && (
+                {list.demo_url && (
                   <a
                     className="btn PrimaryBtn btn-shadow"
                     href={list.demo_url}
@@ -45,6 +45,16 @@ function ProjectCard() {
                     rel="noopener noreferrer"
                   >
                     Link ➜
+                  </a>
+                )}
+                {list.notion_url && (
+                  <a
+                    className="btn PrimaryBtn btn-shadow"
+                    href={list.notion_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Notion ➜
                   </a>
                 )}
               </BtnGroup>
